@@ -7,10 +7,10 @@ export default function App() {
     'João',
     'Maria',
     'John',
-    'Maria',
+    'Mariá',
     'Edi'
   ]
-
+  listaDeAlunas.unshift('')
   return (
     <div className="App">
      <h1>testando</h1>
